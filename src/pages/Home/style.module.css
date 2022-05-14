@@ -1,0 +1,44 @@
+.background {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 50%;
+  max-width: 50%;
+  align-items: center;
+  overflow: auto;
+}
+
+.basket {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.basket:hover {
+  cursor: pointer;
+}
+
+.badger {
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background-color: tomato;
+  color: white;
+}
