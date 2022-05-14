@@ -3,6 +3,8 @@
 Meu nome é Roger Felipe, sou desenvolvedor Fullstack Javascript e já trabalho com desenvolvimeto em tempo integral a pouco mais de 3 anos, eu criei esse projeto para atender um teste conforme especificações abaixo.
 Eu usei um modelo pronto com algumas configurações do typescript, mas o projeto foi totalmente desenvolvido manualmente.
 Eu utilizei as seguintes tecnologias:
+- HTML
+- CSS
 - Typescript
 - React JS
 - Mongodb Realm
@@ -14,6 +16,7 @@ O projeto está hospedado e pode ser testado online em https://test-cart-ibawy.m
 ## TODO:
 
 - [ ] Adicionar o loader enquanto carrega os dados dos produtos
+- [ ] Mudar o posicionamento do botão de fechar a modal do carrinho
 - [ ] Enviar um pedido para o backend ao apertar on botão finalizar e salvar os dados do pedido no mongodb
 - [ ] Salvar carrinho no localStorage para que a pessoa possa recuperar os itens adicionados anteriormente
 - [ ] Criar o aplicativo em React Native
