@@ -16,6 +16,7 @@ O projeto está hospedado e pode ser testado online em https://test-cart-ibawy.m
 ## TODO:
 
 - [ ] Adicionar o loader enquanto carrega os dados dos produtos
+- [ ] Ajustar responsividade para mobile
 - [ ] Mudar o posicionamento do botão de fechar a modal do carrinho
 - [ ] Enviar um pedido para o backend ao apertar on botão finalizar e salvar os dados do pedido no mongodb
 - [ ] Salvar carrinho no localStorage para que a pessoa possa recuperar os itens adicionados anteriormente
